@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>تطور الفن عبر العصور</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>تطور الفن عبر العصور</h1>
+        <p>رحلة لاستكشاف مراحل تطور الفن من العصور القديمة حتى العصر الحديث</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#ancient">العصور القديمة</a></li>
+            <li><a href="#medieval">العصور الوسطى</a></li>
+            <li><a href="#renaissance">عصر النهضة</a></li>
+            <li><a href="#modern">العصر الحديث</a></li>
+        </ul>
+    </nav>
+    <main>
+        <section id="ancient" class="era">
+            <h2>الفن في العصور القديمة</h2>
+            <p>تميز الفن في العصور القديمة مثل الحضارة المصرية والإغريقية باستخدام الرمزية والتفاصيل الدقيقة.</p>
+            <button class="more-info">المزيد عن هذا العصر</button>
+        </section>
+        <section id="medieval" class="era">
+            <h2>الفن في العصور الوسطى</h2>
+            <p>تمحور الفن في العصور الوسطى حول الدين، حيث ظهرت الأيقونات والفسيفساء.</p>
+            <button class="more-info">المزيد عن هذا العصر</button>
+        </section>
+        <section id="renaissance" class="era">
+            <h2>عصر النهضة</h2>
+            <p>شهد عصر النهضة عودة الاهتمام بالجمال الإنساني والتفاصيل الواقعية مع فنانين مثل ليوناردو دافنشي.</p>
+            <button class="more-info">المزيد عن هذا العصر</button>
+        </section>
+        <section id="modern" class="era">
+            <h2>الفن في العصر الحديث</h2>
+            <p>اتسم الفن الحديث بالتجريب والإبداع مع ظهور الحركات مثل السريالية والتكعيبية.</p>
+            <button class="more-info">المزيد عن هذا العصر</button>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 تطور الفن عبر العصور | جميع الحقوق محفوظة</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
